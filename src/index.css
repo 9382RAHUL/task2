@@ -1,0 +1,73 @@
+body {
+    background-color: #cfcde0;
+}
+
+.text-header {
+    width: 500px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.btnToggle {
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 100px;
+    background-color: #3838ff;
+    color: white;
+}
+
+.defualt {
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 100px;
+    background-color: #b6bee1;
+}
+
+.view {
+    color: #3838ff;
+    font-size: 18px;
+    border: 1px solid #3838ff;
+    border-radius: 100px;
+    font-weight: 600;
+}
+
+.card-style {
+    width: 22rem;
+}
+
+.card-img,
+.card {
+    border-radius: 5px;
+}
+
+.price {
+    color: #3838ff;
+    font-weight: 600;
+}
+
+.readMore {
+    border: 1px solid #3838ff;
+    border-radius: 100px;
+    color: #3838ff;
+    font-weight: 600;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.showMore {
+    width: 150px;
+    color: white;
+    background-color: #3838ff;
+    font-size: 18px;
+    border: 1px solid #3838ff;
+    border-radius: 100px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
