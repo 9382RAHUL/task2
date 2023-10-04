@@ -18,6 +18,7 @@ const Card = ({id, obj}) => {
                 </div>
             </div>
         </div>
+        //sdfd
     )
 }
 
